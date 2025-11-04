@@ -1,6 +1,6 @@
 지원하는 미니 포토샵 입니다.
 
-<img width="451" height="543" alt="image" src="https://github.com/user-attachments/assets/28c1ba26-cc7d-4c03-808d-be8828a7ab5c" />
+<img width="451" height="200" alt="image" src="https://github.com/user-attachments/assets/28c1ba26-cc7d-4c03-808d-be8828a7ab5c" />
 
 <img width="482" height="591" alt="image" src="https://github.com/user-attachments/assets/254bb87f-962b-46c7-89a2-4854017a93c9" />
 
